@@ -1,0 +1,144 @@
+body{
+    text-align: center;
+    padding-top: 90px;
+}
+h1{
+    color: #000000;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+#contBotones{
+    width: 450px;
+    height: 450px;
+    background: #000000;
+    background: #fbff00;
+    text-align: center;
+    color: #000000;
+    background-size: cover;
+   
+}
+
+#contalgoritmos{
+    width: 450px;
+    height: 450px;
+    background: rgb(255, 0, 0);
+    
+}
+
+#algoritmo{
+    width : 180px;
+    height: 180px;
+    background: #ffffff;
+    margin: 0 auto;
+    margin-top: 60px;
+    transition: .5s;
+}
+
+#ejercicio1{
+    
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #f70404;
+    background-size: cover;
+}
+
+
+#ejercicio2{
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #f80ae4;
+    background-size: cover;
+}
+
+#ejercicio3 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #a35e5e;
+    background-size: cover;
+     
+}
+
+#ejercicio4 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #6108f1;
+    background-size: cover;
+
+}
+
+#ejercicio5 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #db0edb;
+    background-size: cover; 
+
+}
+#ejercicio6 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #11ecda;
+    background-size: cover; 
+
+}
+#ejercicio7 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #a4db0e;
+    background-size: cover; 
+
+}
+#ejercicio8 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #db0e8c;
+    background-size: cover; 
+
+}
+#ejercicio9 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #db4f0e;
+    background-size: cover; 
+
+}
+#ejercicio10 {
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #f77c09;
+    background-size: cover; 
+
+}
+body{
+    background: url(../Imagenes/figu.jpg);
+    text-align: center;
+    color: #ff706b;
+    background-size: cover;
+  
+}
+
+#fila {
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+button{
+    background: transparent;
+    padding: 10px 25px;
+    margin: 10px;
+    border: 2px solid #fd007e;
+    color: rgb(23, 35, 102);
+    font-weight: 600;
+    font-size: 18px;
+    transition: .5s;
+    cursor: pointer;
+
+}
+
+
+button:hover{
+    background: #00e1ff;
+    color: #000000;
+}
